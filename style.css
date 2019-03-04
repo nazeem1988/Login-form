@@ -2,7 +2,7 @@ html body {
     background-color: cadetblue;
     margin: 0;
     padding: 0;
-    background-image: url("/skyline.png");
+    background-image: url("skyline.png");
     background-size: contain;
 }
 #login-form {
